@@ -3,6 +3,8 @@
 // npm i http --save
 
 var http = require('http');
+// RESPONSE object is a WritableStream.
+// REQUEST object is a ReadableStream.
 
 http.createServer(function(request, response) {
   var headers = request.headers;
