@@ -1,0 +1,14 @@
+{
+  "name": "http-transaction",
+  "version": "1.0.0",
+  "description": "Http transaction analysis and implementation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http": "0.0.0"
+  }
+}
